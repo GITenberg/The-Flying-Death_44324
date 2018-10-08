@@ -10,8 +10,6 @@ Title: The Flying Death
 
 Author: Samuel Hopkins Adams
 
-Illustrator: C. E. Macauley
-
 Release Date: December 1, 2013 [EBook #44324]
 
 Language: English
@@ -35,7 +33,6 @@ THE FLYING DEATH
 
 By Samuel Hopkins Adams
 
-Illustrated By C. E. Macauley
 
 Copyright, 1905, by Samuel Hopkins Adams
 
@@ -186,7 +183,7 @@ me for?"
 "Would you object to a walk of a third of a mile?"
 
 "Not at all," returned the other, becoming interested. "Shall I see if I
-can rustle up a lantern?99
+can rustle up a lantern?"
 
 "No," said the professor thoughtfully. "I think it would be better not.
 Yes; decidedly we are better without a light. Come."
@@ -262,7 +259,7 @@ As they reached the house, he turned to the other.
 "What was it you thought you saw?" he asked bluntly. "What are you
 looking for?"
 
-"I am not satisfied that I saw anything," answered Professor Bavenden
+"I am not satisfied that I saw anything," answered Professor Ravenden
 evasively. "Imagination is a powerful factor, when the eye must
 accomplish its search in the instantaneous revelation of a lightning
 flash. As for what I am seeking, you heard as much as I. I thank you for
@@ -983,7 +980,7 @@ cross-examination?"
 
 "More than able--willing," replied the girl with a smile. "He's been
 telling us all about himself. Nothing queerer than he ever came ashore
-on Mon-tauk. I'm afraid the sea-water has got into his brain a little."
+on Montauk. I'm afraid the sea-water has got into his brain a little."
 
 "Tell us what he said."
 
@@ -1657,7 +1654,7 @@ wreck and couldn't get any light at all. They've all left except 'the
 Wonderful Whalley.' He's pretty badly bruised, and anyway he won't go
 before paying his respects to Helga."
 
-"I should think not, indeed!" said Miss Raven-den. "And to you."
+"I should think not, indeed!" said Miss Ravenden. "And to you."
 
 "It's a curious thing, but he doesn't seem to be inspired by that
 devotion to me which my highly attractive character would seem to
@@ -1819,7 +1816,7 @@ disagreeable.
 unnecessary solicitude as to Miss Johnston, you will appreciate the bad
 taste of pursuing the subject," said Haynes.
 
-Dick's equable temper and habituated self-con-trol stood him in good
+Dick's equable temper and habituated self-control stood him in good
 stead now.
 
 "I am regarding you as standing in the place of Helga Johnston's
@@ -1886,7 +1883,7 @@ slowly, "but I think--I'm afraid--I know what you mean."
 "How long has it been going on?"
 
 "Nearly a year. It's just behind the left armpit. Rather an unusual
-case, I believe. You see, i'm not on the lists as a marrying man."
+case, I believe. You see, I'm not on the lists as a marrying man."
 
 Colton walked to and fro on the little level stretch, half a dozen
 times. He had seen sickness and suffering in its most helpless forms;
@@ -2114,7 +2111,7 @@ the knolls," he said.
 the blood-thirst," replied Colton. "Ev, Mr. Johnston will show you your
 room. Come down when you're ready. I've got something to look after."
 
-"You're worried about Miss--about the Raven-dens," said Haynes to Dick
+"You're worried about Miss--about the Ravendens," said Haynes to Dick
 as the junior Colton left the room. "Wait a moment, till I get lanterns.
 I'm going with you."
 
@@ -2590,7 +2587,7 @@ But the body being wholly uncovered revealed no wound.
 
 "Must have run off the cliff in her flight," suggested Colton.
 
-"An almost untenable hypothesis," said Professor Bavenden
+"An almost untenable hypothesis," said Professor Ravenden
 argumentatively. "The place where your brother was unhorsed is a mile
 from here, at least. We heard the animal's death-cry an hour after your
 brother's encounter. Could you devise any form of terror which would so
@@ -2610,7 +2607,7 @@ gullies. Inland from him a sharp turn shielded by large rocks cut off
 the view, beyond which appeared the upper foliage of a scrub-oak patch.
 From among the rocks Dick heard a strange sound, like a gasp.
 
-His hand went to his revolver, and he stepped short. Again the sound
+His hand went to his revolver, and he stopped short. Again the sound
 came in a succession of cadences, like interrupted breathing. Dick moved
 forward. A stone slipped under his foot and rattled down among other
 stones. There was instant silence.
@@ -2622,7 +2619,7 @@ tear-stained. She gave a little cry of relief.
 
 "Ah, it is you!" she said.
 
-"Did I frighten you?" asked Dick. "Pm awfully sorry. You've been
+"Did I frighten you?" asked Dick. "I'm awfully sorry. You've been
 crying."
 
 "Yes," said the girl.
@@ -3214,7 +3211,7 @@ thickening. Let's hustle along."
 
 To hustle along was not so easy, for presently a fine rain came driving
 down, involving the whole world in a grey blur. For an hour the three
-circled about, lost From the professor came the first suggestion:
+circled about, lost. From the professor came the first suggestion:
 
 "I believe that I hear the surf," said he. "Guiding our course by the
 sound, we may gain the cliff, by following the line of which we easily
@@ -3595,7 +3592,7 @@ fear that I should."
 
 "Charge the death of the mare to the kites, then. Pity we can't lay the
 sheep to their account too. The third count against them is Professor
-Raven-den's adventure of the eighteenth, and the death of the aeronaut.
+Ravenden's adventure of the eighteenth, and the death of the aeronaut.
 As to Professor Ravenden's part, there remains to be explained the
 cutting of the kite strings, if they were cut."
 
@@ -3631,7 +3628,7 @@ we'll call that Whalley's work. We come to to-day's murder now. Who did
 that?"
 
 "Without assuming any certainty in the matter, I should assume the
-suspicion to rest upon the juggler," said Professor Bavenden.
+suspicion to rest upon the juggler," said Professor Ravenden.
 
 "Motive is there," said Dick Colton. "What Serdholm told us about his
 thumping Whalley shows that."
@@ -4120,7 +4117,7 @@ Haynes had been struck opposite the gully, by a weapon driven with
 fearful impetus between his ribs from the back, piercing his heart. A
 dozen staggering prints showed where he had plunged forward before
 he fell. The flight was involuntary--for he was dead almost on the
-stroke--the blind, mechanical instinct of escape from the death-deal-ing
+stroke--the blind, mechanical instinct of escape from the death-dealing
 agency. There was no mistaking that great gash in the back. Haynes had
 been killed as Serdholm was.
 
@@ -4451,7 +4448,7 @@ going to do."
 the other frankly; "but I'll have a revolver."
 
 "Little enough avail was that to our poor friend," said Professor
-Bavenden. "Suppose I accompany you?"
+Ravenden. "Suppose I accompany you?"
 
 "Thank you, sir," said Dick. "If you care to go, I should be glad to
 have you. But suppose you come across the knolls while I follow Haynes'
@@ -4508,11 +4505,11 @@ fell forward into darkness.
 
 CHAPTER FIFTEEN--THE PROFESSOR ACTS
 
-PROMPTITUDE was one of Professor Raven-den's many virtues. Only one
+PROMPTITUDE was one of Professor Ravenden's many virtues. Only one
 thing could make him forget the obligation of an engagement; that was
 his dominant ardour for the hunt. In time this had become an instinct.
 So it is not strange that, on leaving Third House to keep his rendezvous
-with Dick Colton, he should have ab-sentmindedly hung his heavy
+with Dick Colton, he should have absentmindedly hung his heavy
 poison-jar for specimens around his neck, and taken up his butterfly
 net, while entirely forgetting his revolver.
 
@@ -4543,7 +4540,7 @@ course, some hundreds of yards inland. This time he did not get near
 enough for a trial of his net before the elusive creature was off again.
 The third flight was a briefer one. After tentative flutterings, the
 _pseudargiolm_ alighted on a marshmallow leaf in a hollow. Taking profit
-of his previous failures, Professor Bavenden sat down and got his
+of his previous failures, Professor Ravenden sat down and got his
 breath while waiting for the quarry to lapse into a state of undisturbed
 quietude. Thus, it was easy presently for the hunter to net it and
 transfer it to the cyanide jar. This done, he realised with a start of
@@ -4663,7 +4660,7 @@ him back to reason.
 
 "In God's name, Professor, don't strangle the poor devil!"
 
-The baresark grip relaxed. Professor Bavenden collapsed, rolled over on
+The baresark grip relaxed. Professor Ravenden collapsed, rolled over on
 his back and looked up stupidly into the white face of Dick Colton.
 
 "Where--where--is my _pseudargiolus?_" he asked plaintively.
@@ -4671,7 +4668,7 @@ his back and looked up stupidly into the white face of Dick Colton.
 "It's all right, professor; there wasn't any _pseudargiolus_. Just lie
 quiet for a moment."
 
-Professor Bavenden struggled up to a sitting posture. "Let me rise," he
+Professor Ravenden struggled up to a sitting posture. "Let me rise," he
 cried. "I have lost my specimen of _pseudargiolus_. It fell when the jar
 broke."
 
@@ -4778,14 +4775,14 @@ prints.
 
 "You zee?" he said triumphantly.
 
-"Whalley, what made that mark there?" said Professor Bavenden.
+"Whalley, what made that mark there?" said Professor Ravenden.
 
 Again that strange gesture from the juggler and the quick shuddering
 in-draw of the shoulders. "Ze death-bird, maybe," he said.
 
 Nothing more could be gotten from him. They delivered him at the
 coast-guard station to be turned over to the authorities. When he was
-out of their hands, Professor Bavenden insisted on returning to look for
+out of their hands, Professor Ravenden insisted on returning to look for
 the remains of his lost specimen, and was relieved at finding one wing
 intact. Not until he had carefully folded this in paper did he turn to
 Dick Colton with the question:
@@ -4795,7 +4792,7 @@ Dick Colton with the question:
 "I'm at my wit's end," said Dick. "Possibly we've got on the trail of
 another hand-walking knife-thrower."
 
-"Or the death-bird, the pteranodon," returned Professor Bavenden
+"Or the death-bird, the pteranodon," returned Professor Ravenden
 quietly.
 
 
@@ -5671,7 +5668,7 @@ what has so alarmed you."
 But the juggler only flung up his arms in a wild gesture toward the sky,
 and dropped.
 
-"We must call in the others," said Professor Bavenden.
+"We must call in the others," said Professor Ravenden.
 
 Helga lifted her head and sent her clear and beautiful call rolling
 across the hills. At the sound the juggler crawled to her feet
